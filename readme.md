@@ -1,7 +1,5 @@
 #### 基于seq2seq的闲聊系统
 使用bert4keras包，参考苏神的seq2seq。
-#### 数据
-链接: https://pan.baidu.com/s/1P-zbWFohoXg0S6eJsHO6wA 提取码: 31a7 
 
 #### 效果
 ```angular2
